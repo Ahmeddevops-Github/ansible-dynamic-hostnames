@@ -1,7 +1,7 @@
 galaxy_info:
-  author: Islam Kambarov
+  author: Ahmed Devops
   description: A simple role which updates hostname
-  company: Bosch
+  company: Class
   license: MIT
   min_ansible_version: 1.4
   galaxy_tags:
